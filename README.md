@@ -1,7 +1,7 @@
 **Author:** [Behrouz Safari](https://astrodatascience.net/)<br/>
 
 
-# Non-Uniform Motion of Surface
+# Non-Uniform Motion on the Surface
 
 *Example:*
 
